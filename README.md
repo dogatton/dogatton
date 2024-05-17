@@ -1,1 +1,1 @@
-DogatTon (DOTO) is a popular dog-themed coins on Ton ecosystem, features with Shiba with sunglasses on its logo. It's a memecoin of open network, TON community and the project goal is  to create fun and develope in DeFi on TON. 
+DOGatTON (DOTO) is a popular dog-themed coins on Ton ecosystem, features with Shiba with sunglasses on its logo. It's a memecoin of open network, TON community and the project goal is  to create fun and develope in DeFi on TON. 
